@@ -130,6 +130,8 @@ This dashboard helps organizations:
 
 Aspiring Data Analyst | Power BI | SQL | Python | Data Analytics
 
+**LinkedIn**- https://www.linkedin.com/in/ishant-kumar-verma/
+
 ---
 
 ## ⭐ Support
